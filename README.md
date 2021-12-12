@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak Rajput.
-- 👀 I’m interested in Web Devloping.
-- 🌱 I’m currently learning Our Course in Wev Devloping.
+- 👀 I’m interested in Web Developing.
+- 🌱 I’m currently learning Our Course in Wev Developing.
 - 💌 deepakkumar18112001@gmail.com
 - ➡️ https://www.instagram.com/i_deepakrakput
 - ➡️ https://www.facebook.com/ideepakrakput
