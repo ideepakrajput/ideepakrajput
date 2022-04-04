@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Deepak Rajput.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning React,DBMS.
-- 💌 deepakkumar18112001@gmail.com
-- ➡️ https://www.instagram.com/i_deepakrajput
-- ➡️ https://www.facebook.com/ideepakrajput
+👋 Hey there,
+## I’m **Deepak Rajput**
+👀 I’m interested in Web Development.
+🌱 I’m currently learning React,DBMS.
+💌 How to reach me :[Gmail](mailto:deepak.bcas.du@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=ideepakrajput&color=blueviolet)
-
