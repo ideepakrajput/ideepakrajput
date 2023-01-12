@@ -455,6 +455,19 @@ b, strong {
   color: #ffc200;
 }
 
+.footer-links p {
+  display: inline;
+  margin-left: 15px;
+  font-size: 1.5rem;
+}
+.footer-links a{
+  color:#474559;
+}
+
+.footer-links a:hover {
+  color:#ffc200;
+}
+
 @media (min-width: 1270px) {
   .owl-theme .owl-dots {
     position: relative;
@@ -556,5 +569,8 @@ b, strong {
   .social-links li {
     display: inline-block;
     vertical-align: top;
+  }
+  .social-links p {
+    display: inline;
   }
 }
