@@ -25,7 +25,8 @@
 
   <script src="https://smtpjs.com/v3/smtp.js"></script>
   <script type="text/javascript">
-    function sendEmail() {
+    function sendEmail(e) {
+      e.preventDefault();
       Email.send({
 
           Host: "smtp.gmail.com",
@@ -280,7 +281,7 @@
         </div>
         <div class="col-12 col-md-6">
           <div class="contact-form">
-            <form action="/" method="post">
+            <form onsubmit="sendEmail(e)">
               <div class="row justify-content-center">
                 <div class="col-md-6 col-12">
                   <input type="text" class="form-control" name="name" placeholder="Your Name" id="name">
@@ -295,7 +296,7 @@
                 </div>
 
                 <div class="col-md-4 col-6">
-                  <input type="submit" class="form-control submit-btn" value="Send message" onclick="sendEmail()">
+                  <input type="submit" class="form-control submit-btn" value="Send message">
                 </div>
               </div>
             </form>
