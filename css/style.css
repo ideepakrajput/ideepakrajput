@@ -97,6 +97,9 @@ b, strong {
 .animated {
   position: relative;
 }
+.copyright-text{
+font-size:1.5rem;
+}
 
 .animated-info {
   display: inline-block;
