@@ -8,5 +8,11 @@
 
 ![](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bchqpe4akujlphu1jd2ll22t8x3eo4h0a4vm6jba&rid=giphy.gif&ct=g)
 
-![](https://komarev.com/ghpvc/?username=ideepakrajput&color=blueviolet)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ideepakrajput&show_icons=true&locale=en&layout=compact" alt="" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ideepakrajput&show_icons=true&locale=en" alt="ideepakrajput" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ideepakrajput" alt="ideepakrajput" /></p>
+
+![](https://komarev.com/ghpvc/?username=ideepakrajput&color=blueviolet)
