@@ -1,10 +1,40 @@
 ## 👋 Hey there,
-## I’m **Deepak Rajput**
-## [Portfolio](https://ideepakrajput.github.io/ideepakrajput/)
+### I’m **Deepak Rajput**
+### [Portfolio](https://ideepakrajput.github.io)
 
-### 👀 I’m a Full Stack Web Developer.
-### 🌱 I’m currently Intern at Northline as MERN Stack Developer.
-### 💌 How to reach me : [Gmail](mailto:deepak.bcas.du@gmail.com)  [LinkedIn](https://www.linkedin.com/in/ideepakrajput)
+#### I’m Experienced MERN Stack Developer proficient in crafting end-to-end web solutions, leveraging MongoDB, Express.js, React, and Node.js, with a passion for delivering scalable and efficient applications.
+#### I’m currently Intern at Northline as MERN Stack Developer.
+#### 💌 How to reach me : [Gmail](mailto:contact.deepakrajput@gmail.com)  [LinkedIn](https://www.linkedin.com/in/ideepakrajput)
+
+## Programming Languages
+- JavaScript
+- Python
+
+## Backend
+- Node.js
+- Express.js
+- MongoDB
+
+## Frontend
+- React
+- React Native
+- HTML
+- CSS
+
+## Database
+- Firebase
+
+## Version Control
+- Git
+
+## Tools
+- Visual Studio Code
+- Postman
+
+## Cloud
+- Amazon Web Services (AWS)
+
+Feel free to reach out if you have any questions or if there's a technology you'd like to discuss further. Let's code together!
 
 ![](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bchqpe4akujlphu1jd2ll22t8x3eo4h0a4vm6jba&rid=giphy.gif&ct=g)
 
