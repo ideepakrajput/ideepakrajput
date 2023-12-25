@@ -2,7 +2,7 @@
 ### I’m **Deepak Rajput**
 ### [Portfolio](https://ideepakrajput.github.io)
 
-#### I’m Experienced MERN Stack Developer proficient in crafting end-to-end web solutions, leveraging MongoDB, Express.js, React, and Node.js, with a passion for delivering scalable and efficient applications.
+#### I’m Experienced Full Stack Developer proficient in crafting end-to-end web solutions, leveraging MongoDB, Express.js, React, and Node.js, with a passion for delivering scalable and efficient applications.
 #### I’m currently Intern at Northline as MERN Stack Developer.
 #### 💌 How to reach me : [Gmail](mailto:contact.deepakrajput@gmail.com)  [LinkedIn](https://www.linkedin.com/in/ideepakrajput)
 
