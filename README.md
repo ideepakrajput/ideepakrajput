@@ -21,8 +21,10 @@
 - HTML
 - CSS
 
-## Database
-- Firebase
+## Firebase
+- Authentication
+- Database
+- Hosting
 
 ## Version Control
 - Git
