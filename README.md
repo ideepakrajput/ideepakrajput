@@ -14,6 +14,8 @@
 - Node.js
 - Express.js
 - MongoDB
+- sqlite3
+- mysql
 
 ## Frontend
 - React
