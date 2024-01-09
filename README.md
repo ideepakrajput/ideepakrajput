@@ -14,6 +14,9 @@
 - Node.js
 - Express.js
 - MongoDB
+- Spring Boot
+- Java
+- Hibernate
 - sqlite3
 - mysql
 
