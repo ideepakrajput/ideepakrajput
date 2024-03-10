@@ -3,7 +3,7 @@
 ### [Portfolio](https://ideepakrajput.github.io)
 
 #### I’m Experienced Full Stack Developer proficient in crafting end-to-end web solutions, leveraging MongoDB, Express.js, React, and Node.js, with a passion for delivering scalable and efficient applications.
-#### I’m currently Intern at Northline as MERN Stack Developer.
+#### I’m Software Developer at PIP TRADE.
 #### 💌 How to reach me : [Gmail](mailto:contact.deepakrajput@gmail.com)  [LinkedIn](https://www.linkedin.com/in/ideepakrajput)
 
 ## Programming Languages
@@ -42,7 +42,7 @@
 - Amazon Web Services (AWS)
 
 Feel free to reach out if you have any questions or if there's a technology you'd like to discuss further. Let's code together!
-#### 💌 How to reach me : [Gmail](mailto:contact.deepakrajput@gmail.com)  [LinkedIn](https://www.linkedin.com/in/ideepakrajput)
+#### 💌 How to reach me : [Gmail](mailto:deepak.bcas.du@gmail.com)  [LinkedIn](https://www.linkedin.com/in/ideepakrajput)
 
 ![](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bchqpe4akujlphu1jd2ll22t8x3eo4h0a4vm6jba&rid=giphy.gif&ct=g)
 
