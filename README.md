@@ -32,7 +32,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Redux Thunk](https://img.shields.io/badge/redux--thunk-%23007396.svg?style=for-the-badge&logo=redux&logoColor=white) <br>
-![Workspace](https://img.shields.io/badge/Apple-MacBoo_M1-999999?style=for-the-badge&logo=apple&logoColor=white) 
+![Workspace](https://img.shields.io/badge/Apple-MacBook_M1-999999?style=for-the-badge&logo=apple&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
