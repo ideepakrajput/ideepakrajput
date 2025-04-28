@@ -119,7 +119,8 @@ I'm constantly exploring new technologies to expand my skill set and build solut
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ideepakrajput&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ideepakrajput&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ideepakrajput&theme=tokyonight&exclude_days=Sun" alt="GitHub Streak" />
 </div>
 
 <div align="center">
