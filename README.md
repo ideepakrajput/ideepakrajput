@@ -116,19 +116,23 @@ I'm constantly exploring new technologies to expand my skill set and build solut
 
 </details>
 
-## 📈 GitHub Statistics
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ideepakrajput&theme=tokyonight" alt="GitHub Activity Graph" />
   <table>
     <tr>
-      <td>
+      <td width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ideepakrajput&theme=tokyonight&exclude_days=Sun" alt="GitHub Streak" />
       </td>
-      <td>
+      <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=ideepakrajput&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
-      <td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ideepakrajput&theme=tokyonight" alt="GitHub Activity Graph" />
+      </td>
+      <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideepakrajput&theme=tokyonight&hide_border=false&layout=compact&langs_count=10" alt="Most Used Languages" />
       </td>
     </tr>
