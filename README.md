@@ -117,20 +117,18 @@ I'm constantly exploring new technologies to expand my skill set and build solut
 </details>
 
 <div align="center">
+  <!-- 💫 STREAK AT TOP -->
+  <h3>🔥 Current GitHub Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ideepakrajput&theme=tokyonight&exclude_days=Sun" alt="GitHub Streak" />
+  <!-- 📈 ACTIVITY GRAPH BELOW STREAK -->
+  <h3>📈 Contribution Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ideepakrajput&theme=tokyonight" alt="GitHub Activity Graph" />
+  <!-- 📦 GITHUB STATS + 🌐 TOP LANGUAGES IN ONE ROW -->
+  <h3>📦 Stats & 🌐 Languages</h3>
   <table>
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ideepakrajput&theme=tokyonight&exclude_days=Sun" alt="GitHub Streak" />
-      </td>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=ideepakrajput&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ideepakrajput&theme=tokyonight" alt="GitHub Activity Graph" />
       </td>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideepakrajput&theme=tokyonight&hide_border=false&layout=compact&langs_count=10" alt="Most Used Languages" />
@@ -138,7 +136,6 @@ I'm constantly exploring new technologies to expand my skill set and build solut
     </tr>
   </table>
 </div>
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ideepakrajput&color=blueviolet&style=for-the-badge" alt="Profile Views" />
