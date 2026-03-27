@@ -1,4 +1,4 @@
-# Deepak Kumar | Software Developer
+# Deepak Rajput | Software Developer
 
 <div align="center">
 <!-- Animated header -->
